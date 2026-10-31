@@ -1,6 +1,6 @@
 ---
 title: Roblox Kids and Select
-description: Explains the Roblox Kids and Select account types and the publishing requirements for reaching audiences under 16.
+description: Explains the Roblox Kids and Select account types and the publishing requirements for reaching audiences 9-15
 ---
 
 Roblox applies a unified safety and publishing framework that aligns content with user age. Two age-based account types, **Roblox Kids** and **Roblox Select**, set verification requirements for creators who publish content for all ages, and require any game available to users under 16 to pass an [evaluation process](#for-all-ages-including-kids-and-select-accounts).
